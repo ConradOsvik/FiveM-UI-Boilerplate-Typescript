@@ -17,5 +17,5 @@
     "jsx": "react-jsx",
     "types": ["@citizenfx/client", "@citizenfx/server", "@types/node"]
   },
-  "include": ["src", "__client__", "__server__"]
+  "include": ["src", "__client__/*", "__server__/*"]
 }
